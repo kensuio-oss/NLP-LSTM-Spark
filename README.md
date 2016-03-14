@@ -20,7 +20,7 @@ docker run -v $LOCAL_NOTEBOOKS:/root/spark-notebook/notebooks/spark-deep-learnin
            --rm -it -m 8g \
            -p 19000:9000 \
            -p 14040:4040 -p 14041:14041 -p 14042:4042 -p 14043:14043 \
-           bythebay/spark-deep-learning:latest \
+           bythebay/spark-deep-learning:0.0.1 \
            bash
 ```
 
