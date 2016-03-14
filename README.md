@@ -1,4 +1,5 @@
 # spark-deep-learning
+Deep Learning on Spark tutorial
 
 ## Build
 ```bash
@@ -36,4 +37,3 @@ Open browser at [http://localhost:19000/tree/spark-deep-learning](http://localho
 > WARN:
 > 
 > If you're running docker via a VM (Mac, Msft, ...) then you need to replace `localhost` by the VM's IP.
-
