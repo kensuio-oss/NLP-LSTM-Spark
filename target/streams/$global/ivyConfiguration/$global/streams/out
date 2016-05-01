@@ -1,0 +1,10 @@
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] Using inline dependencies specified in Scala.
+[debug] Using inline dependencies specified in Scala.
+[warn] Binary version (2.10) for dependency org.scala-lang#scalap;2.10.0
+[warn] 	in default#spark-deeplearning$sources_javadoc_2.11;1.0 differs from Scala binary version in project (2.11).
+[warn] Binary version (2.10) for dependency org.scala-lang#scala-reflect;2.10.4
+[warn] 	in default#spark-deeplearning$sources_javadoc_2.11;1.0 differs from Scala binary version in project (2.11).
+[warn] Binary version (2.10) for dependency org.scala-lang#scala-compiler;2.10.4
+[warn] 	in default#spark-deeplearning$sources_javadoc_2.11;1.0 differs from Scala binary version in project (2.11).

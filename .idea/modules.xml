@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-deeplearning.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-deeplearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-deeplearning-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-deeplearning-build.iml" />
+    </modules>
+  </component>
+</project>
